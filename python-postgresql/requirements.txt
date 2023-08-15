@@ -1,0 +1,4 @@
+psycopg2-binary
+pandas
+Flask-SQLAlchemy
+snowflake-connector-python
